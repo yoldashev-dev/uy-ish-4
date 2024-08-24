@@ -415,9 +415,6 @@ button {
   /* .fids-card{
     width: 550px;
   } */
-  .finds-background {
-    width: 100%;
-  }
   .fids-cards {
     flex-direction: column;
   }

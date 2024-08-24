@@ -406,15 +406,9 @@ button {
     font-size: 44px;
     text-align: center;
   }
-  /* .new-product{
-    width: 550px;
-  } */
   .new-products-card {
     flex-direction: column;
   }
-  /* .fids-card{
-    width: 550px;
-  } */
   .fids-cards {
     flex-direction: column;
   }

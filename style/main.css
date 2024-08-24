@@ -411,7 +411,6 @@ button {
   } */
   .new-products-card {
     flex-direction: column;
-    margin-left: 130px;
   }
   /* .fids-card{
     width: 550px;
@@ -421,7 +420,6 @@ button {
   }
   .fids-cards {
     flex-direction: column;
-    margin-left: 130px;
   }
   .gear-top {
     flex-direction: column;

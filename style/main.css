@@ -398,7 +398,7 @@ button {
     margin-left: 33px;
   }
 }
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 720px) {
   .banner-title {
     margin-left: 250px;
   }
